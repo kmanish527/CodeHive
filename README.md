@@ -41,7 +41,7 @@ A brief one-sentence description of what CodeHive does. For example: "A realtime
 ## 📸 Screenshots
 
 ![CodeHive Homepage]
-<img width="1916" height="901" alt="image" src="https://github.com/user-attachments/assets/77d166bc-48e8-473f-bb41-6a34f85581ff" />
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/0d17335a-b878-4118-a5e8-289bd0dd8f4f" />
 
 ![CodeHive Editorpage]
 <img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/3fe0949c-ddcc-4528-abf8-9d40c3227ea8" />
