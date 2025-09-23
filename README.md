@@ -27,11 +27,13 @@ A brief one-sentence description of what CodeHive does. For example: "A realtime
 
 ## 📖 About The Project
 
-[Provide a more detailed description of your project here. Explain the problem it solves, the features it has, and your motivation for building it. Talk about the user journey and what makes your project stand out.]
+CodeHive is a real-time collaborative code editor, perfect for developers who need to quickly pair program, debug, or teach.
+
+Powered by socket.io, it allows multiple users to edit the same code snippet simultaneously, seeing every change as it happens. Each session is assigned a unique and private URL using uuid, allowing you to instantly share the link and start collaborating with anyone, anywhere.
 
 ### Features
 
--   **Feature 1:** [e.g., User Authentication with JWT]
+-   **Feature 1:** [e.g., Unique Sharable Links, Create & Forget]
 -   **Feature 2:** [e.g., Create, Read, Update, and Delete code snippets]
 -   **Feature 3:** [e.g., Syntax highlighting for multiple languages]
 -   **Feature 4:** [e.g., Real-time collaboration features]
