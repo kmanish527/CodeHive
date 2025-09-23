@@ -1,0 +1,14 @@
+[build]
+  # Tell Netlify to build the frontend
+  base    = "codehive-frontend"
+  command = "npm run build"
+  publish = "codehive-frontend/dist"
+
+  # Tell Netlify where to find the serverless functions
+  functions = "netlify/functions"
+
+# Redirect API calls to the serverless function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
