@@ -33,7 +33,7 @@ Powered by socket.io, it allows multiple users to edit the same code snippet sim
 
 ### Features
 
--   **Feature 1:** [e.g., Unique Sharable Links, Create & Forget]
+-   **Feature 1:** [e.g., Unique Sharable Code, Create & Forget]
 -   **Feature 2:** [e.g., Create, Read, Update, and Delete code snippets]
 -   **Feature 3:** [e.g., Syntax highlighting for multiple languages]
 -   **Feature 4:** [e.g., Real-time collaboration features]
