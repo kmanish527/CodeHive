@@ -40,13 +40,13 @@ A brief one-sentence description of what CodeHive does. For example: "A realtime
 
 ## 📸 Screenshots
 
-![CodeHive Homepage]
+[CodeHive Homepage]
 <img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/0d17335a-b878-4118-a5e8-289bd0dd8f4f" />
 
-![CodeHive Editorpage]
+[CodeHive Editorpage]
 <img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/3fe0949c-ddcc-4528-abf8-9d40c3227ea8" />
 
-![CodeHive Realtime Code Sharing]
+[CodeHive Realtime Code Sharing]
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/1a32516a-f903-4583-95a6-8f6089d8407d" />
 
 ---
