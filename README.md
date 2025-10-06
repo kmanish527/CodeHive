@@ -1,10 +1,10 @@
 # 🐝 CodeHive
 
-A brief one-sentence description of what CodeHive does. For example: "A realtime collaborative platform for developers to share and discover code snippets."
+"A realtime collaborative platform for developers to share and discover code snippets."
 
 ## ✨ Live Demo
 
-[Check out the live application here!](https://codeehive.netlify.app/)
+[https://codeehive.netlify.app/](https://codeehive.netlify.app/)
 
 ---
 
